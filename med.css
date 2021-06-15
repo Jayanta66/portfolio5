@@ -91,7 +91,7 @@ li:hover {
 video {
 	
 	
-	width: 150px;
+	width: 120px;
 	
 	height: 25vh;
 }
@@ -169,6 +169,7 @@ audio {
 	height: 100px
 
 	color: green;
+	border: 5px red;
 	
 	font-size: 3px;
 	
