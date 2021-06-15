@@ -291,6 +291,15 @@ video {
 	height: 45vh;
 }
 
+
+iframe {
+	
+		width: 60px;
+	
+	height: 25vh;
+	
+}
+
 h2 {
 	
 	color: red;
